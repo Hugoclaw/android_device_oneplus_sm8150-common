@@ -1,0 +1,2 @@
+# android_device_oneplus_sm8150-common
+Descendant android_device_oneplus_sm8150-common
